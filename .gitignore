@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# Qt Creator 用户配置文件（不要加入版本控制）
+*.user
+*.user.*
